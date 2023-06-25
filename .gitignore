@@ -33,3 +33,5 @@ input/HQ_Cdb.csv
 input/2023_Pantiukh_EstMB_MAGsDB_Hqcl.csv
 input/HQ_rename.csv
 input/LQ_rename.csv
+results/ALLcl_representative_MAGs_all_info.xlsx
+results/ALLcl_all_bins_all_info.xlsx
