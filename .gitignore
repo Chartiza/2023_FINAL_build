@@ -36,3 +36,6 @@ input/LQ_rename.csv
 results/ALLcl_representative_MAGs_all_info.xlsx
 results/ALLcl_all_bins_all_info.xlsx
 input/HQLQcl_representative_genomes_list.csv
+results/together_HQLQcl_all_MAGs_all_info.xlsx
+results/together_HQLQcl_representative_MAGs_all_info.xlsx
+input/HQLQcl_together_Cdb.csv
