@@ -39,3 +39,8 @@ input/HQLQcl_representative_genomes_list.csv
 results/together_HQLQcl_all_MAGs_all_info.xlsx
 results/together_HQLQcl_representative_MAGs_all_info.xlsx
 input/HQLQcl_together_Cdb.csv
+input/LQ_bins_without_cl/bin2_gtdbtk.bac120.summary.tsv
+input/LQ_bins_without_cl/bin3_gtdbtk.ar53.summary.tsv
+input/LQ_bins_without_cl/bin3_gtdbtk.bac120.summary.tsv
+input/LQ_bins_without_cl/bin2_gtdbtk.ar53.summary.tsv
+results/LQ_bins_without_cl_b2b3.xlsx
